@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-neo4j
+python-dotenv
+openai
+numpy
+gradio
